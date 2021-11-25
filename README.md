@@ -1,8 +1,8 @@
-# Testing Vue.js Components
+# Following the Testing Vue.js Components
 
-[![](https://vueschool.s3.amazonaws.com/9318e19655ce267304ebf5df7eca7154/testing-vuejs-components.png)](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
+Original code from [vueschool/testing-vue-components](https://github.com/vueschool/testing-vue-components.git)
 
-This repository contains the the starting point of the [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components) course.
+[Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
 
 Learn how to test your Vue.js components like a pro with Jest and the official unit testing library for Vue.js - Vue Test Utils
 
@@ -11,6 +11,7 @@ In this course, you’ll learn everything you need to know to write proper unit 
 Not sure how to mount and render your component to perform assertions. Not sure what you should and shouldn't test? Or how to test a specific thing? This course is for you!
 
 **By the end of this testing course you will know**
+
 - Which tools are required for an efficient testing workflow
 - How to mount and render your Vue components
 - How to programmatically interact with your components through Vue Test Utils
